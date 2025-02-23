@@ -36,6 +36,10 @@ Segue o link para execução dos casos específicados.
 
 
 ### - Bônus 1 e 2:
+Para verificar o livro:
+```
+book
+```
 [![Bonus 1 e 2](https://img.youtube.com/vi/JlMvkEO5BJA/0.jpg)](https://youtu.be/JlMvkEO5BJA)
 
 ### - Bônus 3:
