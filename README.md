@@ -46,6 +46,11 @@ book
 [![Bonus 3](https://img.youtube.com/vi/WoMR5AKrCWs/0.jpg)](https://youtu.be/WoMR5AKrCWs)
 
 ### - Bônus 4:
+Comando para alteração:
+```
+alter order <orderId> <newPrice> <newQty>
+
+```
 [![bonus 4](https://img.youtube.com/vi/y2e8XbSfWEg/0.jpg)](https://youtu.be/y2e8XbSfWEg)
 
 ### - Bônus 5:
