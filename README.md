@@ -1,5 +1,5 @@
 # Matching
-Foi feita a execuçaõ do caso base e todos os casos bônus.
+Foi feita a execução do caso base e todos os casos bônus.
 
 ## Tecnologias e como executar
 Este projeto foi desenvolvido em Java utilizando apenas bibliotecas padrão. Para executar a aplicação, siga os passos abaixo:
